@@ -1,4 +1,7 @@
-package com.example.student;
+package com.example.demo.student;
+
+import com.example.demo.DemoApplication;
+import org.springframework.boot.SpringApplication;
 
 import java.time.LocalDate;
 
